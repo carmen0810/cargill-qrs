@@ -1,4 +1,8 @@
-# Descripción del producto. 
+# Link para visualizar el proyecto.
+
+(https://cargill-qrs.web.app/)
+
+# Descripción del producto.
 
 Cargill-qrs es una single page application (SPA) desarrollado usando React para la empresa Cargill. Nuestra aplicación es una interfaz con estado sincrónico para la gestión de las quejas, reclamos y seguimiento de las mismas por Servicio al Cliente, las funcionalidades a las que es posible acceder dependerán del perfil de usuario que se encuentra almacenado en Firebase. El diseño de nuestra aplicación tiene como concepto el diseño web optimizado para Móvil y Desktop.
 
